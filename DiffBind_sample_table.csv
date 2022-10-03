@@ -1,0 +1,5 @@
+SampleID,Tissue,Condition,Replicate,bamReads,Peaks,PeakCaller
+5A_siPds5b_1,mESC,5A_siPds5b,1,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siPds5b_1_NLA_ChIP16.fastq.gz-mousereads-fix-sort.bam,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siPds5b_1_NLA_ChIP16.fastq.gz-summits-exp50-noreps.bed.gz,bed
+5A_siPds5b_2,mESC,5A_siPds5b,2,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siPds5b_2_NLA_ChIP16.fastq.gz-mousereads-fix-sort.bam,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siPds5b_2_NLA_ChIP16.fastq.gz-summits-exp50-noreps.bed.gz,bed
+5A_siGLO_1,mESC,5A_siGLO,1,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siGLO_1_NLA_ChIP16.fastq.gz-mousereads-fix-sort.bam,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siGLO_1_NLA_ChIP16.fastq.gz-summits-exp50-noreps.bed.gz,bed
+5A_siGLO_2,mESC,5A_siGLO,2,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siGLO_2_NLA_ChIP16.fastq.gz-mousereads-fix-sort.bam,/Users/nicole/Desktop/DiffBind_PDS5/Raw_Files/RAD21_c134_siGLO_2_NLA_ChIP16.fastq.gz-summits-exp50-noreps.bed.gz,bed
